@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-# Exercise title here
+# Exercise title here fx Asking questions
 
-Remember to repeat the questions you are answering
+Link to exercise: 
 
 ---
 
